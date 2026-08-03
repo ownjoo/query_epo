@@ -1,3 +1,4 @@
 # query_epo
 
 [![License](https://img.shields.io/github/license/ownjoo/query_epo)](LICENSE)
+[![Top language](https://img.shields.io/github/languages/top/ownjoo/query_epo)](https://github.com/ownjoo/query_epo) [![Stars](https://img.shields.io/github/stars/ownjoo/query_epo)](https://github.com/ownjoo/query_epo/stargazers) [![Forks](https://img.shields.io/github/forks/ownjoo/query_epo)](https://github.com/ownjoo/query_epo/forks) [![Issues](https://img.shields.io/github/issues/ownjoo/query_epo)](https://github.com/ownjoo/query_epo/issues) [![Pull requests](https://img.shields.io/github/issues-pr/ownjoo/query_epo)](https://github.com/ownjoo/query_epo/pulls)
